@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Аня](https://up.htmlacademy.ru/javascript/20/user/1345183).
-* Наставник: `Неизвестно`.
+* Наставник: Вадим Шевяков.
 
 ---
 
